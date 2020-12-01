@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on ...
 
-## Authenticating an IoT device and having it write data to database (while jumping from a LoRa Netowork to a Wifi Network)
+## Authenticating an IoT device and having it write data to database (while jumping from a LoRa Network to a Wifi Network)
 
 ### Writing the data to the database, feeling exposed and unknown! 
 - Trying and failing and failing...
