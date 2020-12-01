@@ -33,6 +33,23 @@ background: https://www.youtube.com/watch?v=jVMzOcXi1JU
 I'm just like a lil' shrimp so I'm Learning from my elders: https://github.com/mm-adt/vm .
 But mostly I am learning about data structures, algorithms, theory of computation, algebra, and [chasing cats](https://github.com/bshambaugh/bshambaugh/CategoryTheory_and_FQL.pdf).
 
+### I started wondering if we could all be friends:
+
+I got all JavaScripty with D3, Sigma, and the Marmot:
+https://github.com/bshambaugh/node-arc-d3
+
+Went to space with turtles, Drupal, LodLive, and the Marmot:
+https://github.com/bshambaugh/waypaver-lsi-oct11
+https://github.com/bshambaugh/createqueryportallinks/blob/master/query_portal_pages_link.php
+https://github.com/bshambaugh/generalized-turtle-to-ldp-script
+https://github.com/bshambaugh/http_test
+https://github.com/bshambaugh/customLodliveProfiles
+https://github.com/bshambaugh/Drupal7_Text_Field_to_Term_Reference_Field_phpvers
+https://github.com/bshambaugh/ARC2-Experiments-scrape_and_write-4marmotta
+
+And wound up speaking German:
+https://github.com/bshambaugh/webofneeds/
+
 <!--
 **bshambaugh/bshambaugh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
