@@ -2,7 +2,8 @@
 
 - 🔭 I’m currently working on ...
 
-## Authenticating an IoT device and having it write data to database while jumping from a LoRa Netowork to a Wifi Network
+## Authenticating an IoT device and having it write data to database 
+### (while jumping from a LoRa Netowork to a Wifi Network)
 
 - Trying and failing and failing...
 Blinky Project 1 or Connecting a Single Channel LoRa Network to a WiFi Network 
