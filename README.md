@@ -2,8 +2,11 @@
 
 - 🔭 I’m currently working on ...
 
-- https://github.com/bshambaugh/changearray 
+- converting the data from a sensor into a format that can be signed. https://github.com/bshambaugh/changearray 
 converting a binary string of bits to string of bytes in hexadecimal & converting float to a binary string of bits
+seeAlso: https://www.youtube.com/watch?v=yFi4LcselCc
+
+
 
 
 
