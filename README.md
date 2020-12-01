@@ -2,7 +2,10 @@
 
 - 🔭 I’m currently working on ...
 
-- converting the data from a sensor into a format that can be signed. 
+- (1) experimenting getting a cryptographic co-processor to sign messages: https://github.com/bshambaugh/getCryptoChipWorking7
+couple this with (2)
+
+- (2) converting the data from a sensor into a format that can be signed. 
 https://github.com/bshambaugh/changearray : (converting a binary string of bits to string of bytes in hexadecimal & converting float to a binary string of bits)
 seeAlso: https://www.youtube.com/watch?v=yFi4LcselCc
 
