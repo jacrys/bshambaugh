@@ -29,9 +29,10 @@ Tying that public key to metadata and verifying it.
 I'm starting small learning from my senior: https://github.com/digitalcredentials/docs
 background: https://www.youtube.com/watch?v=jVMzOcXi1JU
 
+- 🌱 I’m currently learning ...
 ### Feeling non-commital to a database, or err well much of anything
-I'm just like a lil' shrimp so I'm Learning from my elders: https://github.com/mm-adt/vm
-But mostly learning about data structures, algorithms, theory of computation, algebra, and chasing cats.
+I'm just like a lil' shrimp so I'm Learning from my elders: https://github.com/mm-adt/vm .
+But mostly I am learning about data structures, algorithms, theory of computation, algebra, and chasing cats.
 
 <!--
 **bshambaugh/bshambaugh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
