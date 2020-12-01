@@ -29,7 +29,7 @@ Tying that public key to metadata and verifying it.
 I'm starting small learning from my senior: https://github.com/digitalcredentials/docs
 background: https://www.youtube.com/watch?v=jVMzOcXi1JU
 
-## Feeling non-commital to a database, or err well much of anything
+### Feeling non-commital to a database, or err well much of anything
 I'm just like a lil' shrimp so I'm Learning from my elders: https://github.com/mm-adt/vm
 
 <!--
