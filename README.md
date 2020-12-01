@@ -1,8 +1,10 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
-- converting a binary string of bits to string of bytes in hexadecimal & converting float to a binary string of bits
-https://github.com/bshambaugh/changearray
+
+- https://github.com/bshambaugh/changearray 
+converting a binary string of bits to string of bytes in hexadecimal & converting float to a binary string of bits
+
 
 
 <!--
