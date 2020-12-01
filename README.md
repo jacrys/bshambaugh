@@ -33,6 +33,7 @@ background: https://www.youtube.com/watch?v=jVMzOcXi1JU
 I'm just like a lil' shrimp so I'm Learning from my elders: https://github.com/mm-adt/vm .
 But mostly I am learning about data structures, algorithms, theory of computation, algebra, and [chasing cats](https://github.com/bshambaugh/bshambaugh/CategoryTheory_and_FQL.pdf).
 
+- 💬 Ask me about ...
 ## I started wondering if we could all be friends
 I went on a long journey... (https://www.youtube.com/watch?v=r7N2KmGrwFE)
 
