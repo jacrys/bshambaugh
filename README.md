@@ -4,6 +4,7 @@
 
 ## Authenticating an IoT device and having it write data to database (while jumping from a LoRa Netowork to a Wifi Network)
 
+### Writing the data to the database, feeling exposed and unknown! 
 - Trying and failing and failing...
 Blinky Project 1 or Connecting a Single Channel LoRa Network to a WiFi Network 
 https://github.com/bshambaugh/blinky_project_ede_code
@@ -14,7 +15,7 @@ Blinky Project 2 or Connecting a Single Channel LoRa Network to a WiFi Network
 https://github.com/bshambaugh/LoRaToWiFiWebSocket5
 seeAlso: https://www.youtube.com/watch?v=OhYyUIJ2CHM
 
-### Authentication 
+### Authentication (feel the warmth)
 - (1) experimenting getting a cryptographic co-processor to sign messages: https://github.com/bshambaugh/getCryptoChipWorking7
 couple this with (2) . 
 seeAlso: https://www.youtube.com/watch?v=GNOPb5iGiQk
