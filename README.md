@@ -31,7 +31,7 @@ background: https://www.youtube.com/watch?v=jVMzOcXi1JU
 
 ### Feeling non-commital to a database, or err well much of anything
 I'm just like a lil' shrimp so I'm Learning from my elders: https://github.com/mm-adt/vm .
-But mostly I am learning about data structures, algorithms, theory of computation, algebra, and [chasing cats](https://github.com/bshambaugh/bshambaugh/CategoryTheory_and_FQL.pdf).
+But mostly I am learning about data structures, algorithms, theory of computation, algebra, and [chasing cats](https://github.com/bshambaugh/bshambaugh/blob/main/CategoryTheory_and_FQL.pdf).
 
 💬 Ask me about ...
 ## I started wondering if we could all be friends
