@@ -2,6 +2,8 @@
 
 - 🔭 I’m currently working on ...
 
+## Authenticating an IoT device and having it write data to database
+
 - (1) experimenting getting a cryptographic co-processor to sign messages: https://github.com/bshambaugh/getCryptoChipWorking7
 couple this with (2) . 
 seeAlso: https://www.youtube.com/watch?v=GNOPb5iGiQk
