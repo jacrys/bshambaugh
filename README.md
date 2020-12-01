@@ -39,13 +39,13 @@ I went on a long journey... (https://www.youtube.com/watch?v=r7N2KmGrwFE)
 I got all JavaScripty with D3, Sigma, and the Marmot:
 https://github.com/bshambaugh/node-arc-d3
 
-Went to space with turtles, Drupal, LodLive, and the Marmot:
-https://github.com/bshambaugh/waypaver-lsi-oct11
-https://github.com/bshambaugh/createqueryportallinks/blob/master/query_portal_pages_link.php
-https://github.com/bshambaugh/generalized-turtle-to-ldp-script
-https://github.com/bshambaugh/http_test
-https://github.com/bshambaugh/customLodliveProfiles
-https://github.com/bshambaugh/Drupal7_Text_Field_to_Term_Reference_Field_phpvers
+Went to space with turtles, Drupal, LodLive, and the Marmot (https://www.youtube.com/watch?v=JLqvnFRiP24):
+https://github.com/bshambaugh/waypaver-lsi-oct11 ,
+https://github.com/bshambaugh/createqueryportallinks/blob/master/query_portal_pages_link.php ,
+https://github.com/bshambaugh/generalized-turtle-to-ldp-script ,
+https://github.com/bshambaugh/http_test ,
+https://github.com/bshambaugh/customLodliveProfiles ,
+https://github.com/bshambaugh/Drupal7_Text_Field_to_Term_Reference_Field_phpvers ,
 https://github.com/bshambaugh/ARC2-Experiments-scrape_and_write-4marmotta
 
 And wound up speaking German:
