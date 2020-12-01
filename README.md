@@ -24,8 +24,10 @@ seeAlso: https://www.youtube.com/watch?v=GNOPb5iGiQk
 https://github.com/bshambaugh/changearray : (converting a binary string of bits to string of bytes in hexadecimal & converting float to a binary string of bits)
 seeAlso: https://www.youtube.com/watch?v=yFi4LcselCc
 
-
-
+### Trying to get known
+Tying that public key to metadata and verifying it.
+I'm starting small learning from my senior: https://github.com/digitalcredentials/docs
+background: https://www.youtube.com/watch?v=jVMzOcXi1JU
 
 
 <!--
