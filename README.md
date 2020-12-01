@@ -10,7 +10,7 @@ Blinky Project 1 or Connecting a Single Channel LoRa Network to a WiFi Network
 https://github.com/bshambaugh/blinky_project_ede_code
 seeAlso:https://www.youtube.com/watch?v=bFr6qjkxKNQ
 
---- Trying and finding a saving website with esp8266shop! ,but still not authentication :(
+--- Trying and finding a saving website with esp8266shop! ,but still no authentication :(
 Blinky Project 2 or Connecting a Single Channel LoRa Network to a WiFi Network
 https://github.com/bshambaugh/LoRaToWiFiWebSocket5
 seeAlso: https://www.youtube.com/watch?v=OhYyUIJ2CHM
