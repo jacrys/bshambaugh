@@ -34,6 +34,8 @@ I'm just like a lil' shrimp so I'm Learning from my elders: https://github.com/m
 But mostly I am learning about data structures, algorithms, theory of computation, algebra, and [chasing cats](https://github.com/bshambaugh/bshambaugh/CategoryTheory_and_FQL.pdf).
 
 ### I started wondering if we could all be friends:
+- I went on a long journey... (https://www.youtube.com/watch?v=r7N2KmGrwFE)
+
 
 I got all JavaScripty with D3, Sigma, and the Marmot:
 https://github.com/bshambaugh/node-arc-d3
