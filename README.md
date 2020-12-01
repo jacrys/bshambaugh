@@ -1,6 +1,10 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
+- converting a binary string of bits to string of bytes in hexadecimal & converting float to a binary string of bits
+https://github.com/bshambaugh/changearray
+
+
 <!--
 **bshambaugh/bshambaugh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
