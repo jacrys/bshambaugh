@@ -50,7 +50,7 @@ https://github.com/bshambaugh/Drupal7_Text_Field_to_Term_Reference_Field_phpvers
 https://github.com/bshambaugh/ARC2-Experiments-scrape_and_write-4marmotta
 
 And wound up speaking German:
-https://github.com/bshambaugh/webofneeds/
+https://github.com/researchstudio-sat/webofneeds
 
 <!--
 **bshambaugh/bshambaugh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
