@@ -15,6 +15,8 @@ Blinky Project 2 or Connecting a Single Channel LoRa Network to a WiFi Network
 https://github.com/bshambaugh/LoRaToWiFiWebSocket5
 seeAlso: https://www.youtube.com/watch?v=OhYyUIJ2CHM
 
+A shortend version with Blinky Project 1 & 2 was given as a FreeCodeCamp OKC Talk: https://www.youtube.com/watch?v=tCnqrZda-Wc
+
 ### Authentication (feel the warmth)
 - (1) experimenting getting a cryptographic co-processor to sign messages: https://github.com/bshambaugh/getCryptoChipWorking7
 couple this with (2) . 
@@ -27,7 +29,7 @@ seeAlso: https://www.youtube.com/watch?v=yFi4LcselCc
 ### Trying to get known
 Tying that public key to metadata and verifying it.
 I'm starting small learning from my senior: https://github.com/digitalcredentials/docs
-background: https://www.youtube.com/watch?v=jVMzOcXi1JU
+background: https://www.youtube.com/watch?v=jVMzOcXi1JU (this is a redo of a ThunderPlains 2020 talk: https://www.youtube.com/watch?v=h9v_JSTAkWw&t=15412s )
 
 ### Feeling non-commital to a database, or err well much of anything
 I'm just like a lil' shrimp so I'm Learning from my elders: https://github.com/mm-adt/vm .
@@ -35,7 +37,8 @@ But mostly I am learning about data structures, algorithms, theory of computatio
 
 💬 Ask me about ...
 ## I started wondering if we could all be friends
-I went on a long journey... (https://www.youtube.com/watch?v=r7N2KmGrwFE)
+I went on a long journey... (https://www.youtube.com/watch?v=r7N2KmGrwFE) 
+Here is an earlier, but recent compilation: https://iiw.idcommons.net/5D/_Enterprise_Information_System_for_Peer_Production_(EISPP)_-_Animations/Wireframes_(2015-pre_DID),_payments,_VRM,_LinkedData%E2%80%A6
 
 I got all JavaScripty with D3, Sigma, and the Marmot:
 https://github.com/bshambaugh/node-arc-d3
@@ -50,7 +53,7 @@ https://github.com/bshambaugh/Drupal7_Text_Field_to_Term_Reference_Field_phpvers
 https://github.com/bshambaugh/ARC2-Experiments-scrape_and_write-4marmotta
 
 And wound up speaking German:
-https://github.com/bshambaugh/webofneeds/
+https://github.com/researchstudio-sat/webofneeds
 
 <!--
 **bshambaugh/bshambaugh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
